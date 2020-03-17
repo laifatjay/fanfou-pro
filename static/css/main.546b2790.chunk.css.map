@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,qEAA0E,CAC1E,cAAe,CACf,QAAS,CACT,UACF","file":"main.546b2790.chunk.css","sourcesContent":["body {\n  background-color: #acdae5;\n  font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  font-size: 14px;\n  margin: 0;\n  color: #222;\n}\n"]}
